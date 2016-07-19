@@ -4,8 +4,6 @@
 
 CLI tool for searching website tyda.se.
 
-**Only the simple format is implemented currently**
-
 Requires the [tyda-api](https://github.com/walle/tyda-api) binary to be
 installed.
 
