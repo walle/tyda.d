@@ -1,0 +1,12 @@
+{
+  "name": "tyda_d",
+  "targetName": "tyda.d",
+	"authors": [
+		"Fredrik Wallgren"
+	],
+	"dependencies": {
+	},
+	"description": "CLI tool for searching website tyda.se",
+	"copyright": "Copyright © 2016, Fredrik Wallgren",
+	"license": "MIT"
+}
